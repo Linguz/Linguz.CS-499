@@ -1,21 +1,21 @@
-### Carlos A Martinez's CS 499 Final Project
+# Carlos A Martinez's CS 499 Final Project
 
 ## Code Review
 
 ## Polished Works
 
-# Software Design & Engineering
+### Software Design & Engineering
 
-# Algorithms & Data Structures
+### Algorithms & Data Structures
 
-# Databases
+### Databases
 
 ## Narratives
 
-# Software Design & Engineering
+### Software Design & Engineering
 
-# Algorithms & Data Structures
+### Algorithms & Data Structures
 
-# Databases
+### Databases
 
 ## Professional Self-Assessment
