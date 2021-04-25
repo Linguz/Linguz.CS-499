@@ -29,4 +29,7 @@ This [code review](https://youtu.be/rnRD6E8ajY4) is of the software design & eng
 
 ## Professional Self-Assessment
 
+   Completing my coursework over the last couple years throughout the SNHU program has helped me learn how to use such a large variety of systems. Developing this ePortfolio has helped me shape my professional goal by showing me that I have a lot to do before I will be hirable, and I will need to continue my education after I have graduated to learn how to better develop programs and work in collaborations. One of my classes earlier used github as a collab system and I am not feeling confident at this point that I would be able to properly use it to commit work properly. On working through a system and identifying what needs to be done, however, I feel like I would be competent at, though far from an expert so far. 
+   
+   The first artifact, for data structures and algorithms, shows how I modifying a program to have it create the shapes where I want them, in addition to allowing the user to control the camera and having lighting being an aspect of the program. The second and third, however, will built from the ground up on my own with no direction besides my goal to acquire information about a game I play, and to see if I would be able to figure out how to do it. While there are some more systems I would like to add in to the programs, as they are they work. 
 
