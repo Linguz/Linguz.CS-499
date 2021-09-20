@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hF+me3yFLjG/5CkeEnljbGHi3gYd1th4oH0xVznxDlAKyDKIcjkJzKkCeFtJ6hFNGQIws2v3EM9L+JGDcMKtLg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs\\Work Programs\\01CSSharp\\RestaurantReviews-Console\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Linguz\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

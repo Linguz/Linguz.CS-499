@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PVgz7xSpV8z7619fVBpcF9Q9w+egAUBEEg3AsVOvavpozE9hcKfNSKdXLuscpW0unNg34BOLTbQkrzJg9ll5ng==",
+  "success": true,
+  "projectFilePath": "D:\\Programs\\Work Programs\\01CSSharp\\RestaurantReviews-Console\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Linguz\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\Linguz\\.nuget\\packages\\serilog.sinks.console\\4.0.0\\serilog.sinks.console.4.0.0.nupkg.sha512",
+    "C:\\Users\\Linguz\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
